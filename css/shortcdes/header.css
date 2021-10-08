@@ -1,0 +1,48 @@
+#header-section .header-left-section img {
+    width: 100%;
+    height: 100%;
+    margin: 10px;
+}
+#header-section .header-right-section{
+    float: right;
+    margin-top: 10%;
+}
+#navigation-section .navbar-dark .navbar-nav .nav-link{
+    text-transform: uppercase;
+    font-size: 12px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    color: #fff;
+    transition: .5s;
+}
+#navigation-section .navbar-dark .navbar-nav .nav-link:hover{
+    color: #6ADE62;
+}
+#navigation-section .dropdown-menu{
+    background: #343A40;
+    
+}
+#navigation-section .dropdown-item{
+    color: #fff;
+    border-bottom: 1px solid #636060
+}
+#navigation-section .dropdown-item:last-child{
+    border: none;
+}
+#navigation-section .dropdown-item:hover{
+    background:none;
+    color: #6ADE62;
+}
+#running-section .notice-ticker{
+    border: 1px solid #dedede;
+    margin: 15px;   
+    border-radius: 5px;
+}
+#running-section .notice-ticker ul{
+    list-style: none;
+}
+#running-section .notice-ticker ul li{
+    margin-top: 7px;
+    margin-bottom: -9px;
+    color: red;
+}

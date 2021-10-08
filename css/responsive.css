@@ -1,0 +1,14 @@
+@media (max-width:767px){
+    #header-section .header-right-section{
+        float: none;
+        margin: 10px;
+    }
+    #header-section .header-left-section img{
+        margin: 0px;
+    }
+}
+@media (max-width:1200px){
+    #navigation-section .navbar-dark .navbar-nav .nav-link{
+        letter-spacing: 0px;
+    }
+}

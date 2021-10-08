@@ -1,0 +1,11 @@
+#brief-history .brif-history-content h2{
+    font-size: 22px;
+    font-family: sans-serif;
+    border-bottom: 1px solid #EEEEEE;
+    padding: 10px 0px;
+}
+#brief-history .brif-history-content p{
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: justify;
+}

@@ -1,0 +1,14 @@
+#at-a-glance .title{
+    border-bottom: 1px solid #DEE2E6;
+}
+#at-a-glance .title h2{
+    font-size: 22px;
+    font-family: sans-serif;
+    margin: 15px 0px;
+    
+}
+#at-a-glance .table-header h2{
+    font-size: 22px;
+    color: ##777777;
+    margin : 10px 0px;
+}
